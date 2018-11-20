@@ -42,3 +42,4 @@ app.controller('MainController', ['$scope', function($scope) {
   	$scope.products[index].dislikes += 1;
 	};
 }]);
+}]);
